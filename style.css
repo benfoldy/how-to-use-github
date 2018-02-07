@@ -8,6 +8,13 @@ html, body {
   font-size: 16px;
 }
 
+div {
+  background: yellow;
+  width: 50%;
+  margin: auto;
+  font-size: 2em;
+}
+
 /* Tablet/Desktop overrides */
 
 @media(min-width: 681px) {
